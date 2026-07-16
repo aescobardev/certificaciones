@@ -6,8 +6,6 @@ A modern website created to showcase my professional certifications, completed c
 
 ## 🌐 Live Demo
 
-> GitHub Pages *(Available after deployment)*
-
 ```
 https://aescobardev.github.io/certificaciones/
 ```
@@ -80,18 +78,6 @@ certificaciones/
 ---
 
 ## 📸 Preview
-
-### Hero
-![preview-1](assets/img/preview-1.png)
-
-### Technologies
-![preview-2](assets/img/preview-2.png)
-
-### Certification
-![preview-3](assets/img/preview-3.png)
-
-### Timeline
-![preview-4](assets/img/preview-4.png)
 
 ---
 
