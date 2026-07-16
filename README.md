@@ -81,9 +81,16 @@ certificaciones/
 
 ## 📸 Preview
 
+### Hero
 ![preview-1](assets/img/preview-1.png)
+
+### Technologies
 ![preview-2](assets/img/preview-2.png)
+
+### Certification
 ![preview-3](assets/img/preview-3.png)
+
+### Timeline
 ![preview-4](assets/img/preview-4.png)
 
 ---
