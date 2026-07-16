@@ -81,7 +81,10 @@ certificaciones/
 
 ## 📸 Preview
 
-[preview-1](assets/img/preview-1.png)
+![preview-1](assets/img/preview-1.png)
+![preview-2](assets/img/preview-2.png)
+![preview-3](assets/img/preview-3.png)
+![preview-4](assets/img/preview-4.png)
 
 ---
 
