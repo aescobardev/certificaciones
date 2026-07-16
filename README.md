@@ -81,7 +81,7 @@ certificaciones/
 
 ## 📸 Preview
 
-*(Screenshots will be added after deployment.)*
+[preview-1](assets/img/preview-1.png)
 
 ---
 
