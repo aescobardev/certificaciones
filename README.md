@@ -1,82 +1,149 @@
-# 📜 Professional Certifications Portfolio
+# 📜 Professional Learning Hub
 
-A modern and responsive website designed to showcase my professional certifications, technical courses, and continuous learning journey in Software Development and Cloud Computing.
+A modern and responsive website created to showcase my professional certifications, technical courses, and continuous learning journey in Software Development, Databases, Cloud Computing, and Professional Development.
 
-The goal of this project is to provide recruiters and employers with a centralized place where they can easily explore my certifications, technical skills, and professional growth.
-
----
-
-# 🌐 Live Demo
-
-https://aescobardev.github.io/certificaciones/
+The project provides recruiters and employers with a centralized place to explore my completed courses, acquired skills, and professional growth.
 
 ---
 
-# 📖 About the Project
+## 🌐 Live Demo
 
-This website is an extension of my professional portfolio and serves as a digital repository of the certifications I have earned throughout my learning journey.
+[View Professional Learning Hub](https://aescobardev.github.io/certificaciones/)
 
-Instead of simply storing PDF certificates, the project organizes them into learning paths, making it easier to understand my technical background and career progression.
+---
 
-The portfolio currently includes certifications in:
+## 📖 About the Project
+
+This project is an extension of my professional portfolio and works as a digital repository for the certifications I have earned throughout my learning journey.
+
+Instead of storing certificates only as individual PDF files, the website organizes them into professional learning paths. Each certification includes its issuing organization, completion date, main topics, relevant skills, and direct access to the original document.
+
+The project currently includes certifications in:
 
 - ☁️ Cloud Computing
 - 💻 Front-End Development
+- 💾 Databases and SQL
 - 🚀 Professional Development
-
-Each certification includes a short description, issuing organization, completion date, and direct access to the original credential.
 
 ---
 
-# ✨ Features
+## ✨ Features
 
 - Modern and responsive interface
 - Professional landing page
 - Certification gallery
-- Learning paths by category
-- Professional development timeline
+- Certifications organized by learning path
+- Learning journey timeline
 - Technical skills overview
-- Direct access to PDF certificates
+- Direct access to certificate PDFs
+- Category filtering
+- Responsive navigation
 - GitHub Pages deployment
-- Clean and accessible UI
+- Clean and accessible user interface
 
 ---
 
-# 🎓 Learning Paths
+## 🎓 Learning Paths
 
-## ☁️ Cloud Computing
+### ☁️ Cloud Computing
 
-- Microsoft Azure Fundamentals AZ-900 Exam Prep
+#### Microsoft Azure Fundamentals AZ-900 Exam Prep
+
+Specialization focused on foundational Microsoft Azure concepts, cloud services, management tools, security, governance, cost management, and service-level agreements.
+
+Included courses:
+
 - Introduction to Microsoft Azure Cloud Services
 - Microsoft Azure Services and Lifecycles
 - Microsoft Azure Management Tools and Security Solutions
+- Preparing for the Microsoft Azure Fundamentals AZ-900 Exam
+
+**Skills:** Microsoft Azure, Cloud Computing, Azure Services, Cloud Security, Governance and Cost Management.
 
 ---
 
-## 💻 Front-End Development
+### 💻 Front-End Development
 
-- Introduction to HTML, CSS & JavaScript
-- Getting Started with Git and GitHub
-- Developing Front-End Apps with React
+#### Introduction to HTML, CSS & JavaScript
+
+Introduction to modern web development using HTML for page structure, CSS for visual design, and JavaScript for interactive functionality.
+
+**Skills:** HTML5, CSS3, JavaScript and Responsive Design.
+
+#### Getting Started with Git and GitHub
+
+Course focused on version control, repository management, branches, commits, collaboration, and professional GitHub workflows.
+
+**Skills:** Git, GitHub, Version Control, Branching and Repository Management.
+
+#### Developing Front-End Apps with React
+
+Course focused on building modern and reusable user interfaces with React, JSX, components, props, state, and event handling.
+
+**Skills:** React, JSX, Components, Props, State and Front-End Development.
 
 ---
 
-## 🚀 Professional Development
+### 💾 Databases and SQL
 
-- Cómo potenciar tu talento
+#### SQL para análisis de datos
+
+Program focused on querying, manipulating, analyzing, designing, and managing relational databases using SQL.
 
 Topics covered:
 
-- Personal Growth
-- Professional Branding
-- Employability
-- Career Development
-- Future Readiness
-- Entrepreneurship
+- Introduction to databases
+- Introduction to SQL
+- Single-table operations
+- Multi-table operations and JOINs
+- Data grouping and partitioning
+- Subqueries and correlated subqueries
+- Derived tables
+- Common Table Expressions
+- Advanced SQL
+- Database administration fundamentals
+- Relational database design
+
+**Skills:** SQL, SQL Server, MySQL, Relational Databases, JOINs, Subqueries, CTEs, Aggregate Functions, Window Functions, Database Design, Data Modeling and Data Analysis.
 
 ---
 
-# 🛠 Technologies
+### 🚀 Professional Development
+
+#### Cómo potenciar tu talento
+
+Professional development program focused on employability, personal branding, career planning, workplace preparation, future opportunities, and entrepreneurship.
+
+Topics covered:
+
+- Self-awareness and professional strengths
+- Professional branding
+- Employability trends and tools
+- Workplace preparation
+- Career opportunities
+- Entrepreneurship
+
+**Skills:** Personal Branding, Employability, Career Planning, Communication, Networking and Professional Growth.
+
+---
+
+## 📋 Current Certifications
+
+| Certification | Organization | Area | Status |
+|---|---|---|---|
+| Microsoft Azure Fundamentals AZ-900 Exam Prep | Coursera | Cloud Computing | ✅ Completed |
+| Introduction to Microsoft Azure Cloud Services | Microsoft / Coursera | Cloud Computing | ✅ Completed |
+| Microsoft Azure Services and Lifecycles | Microsoft / Coursera | Cloud Computing | ✅ Completed |
+| Microsoft Azure Management Tools and Security Solutions | Microsoft / Coursera | Cloud Computing | ✅ Completed |
+| Introduction to HTML, CSS & JavaScript | IBM / Coursera | Front-End | ✅ Completed |
+| Getting Started with Git and GitHub | IBM / Coursera | Version Control | ✅ Completed |
+| Developing Front-End Apps with React | IBM / Coursera | Front-End | ✅ Completed |
+| SQL para análisis de datos | EBAC | Databases | ✅ Completed |
+| Cómo potenciar tu talento | EBAC | Professional Development | ✅ Completed |
+
+---
+
+## 🛠 Technologies Used
 
 - HTML5
 - CSS3
@@ -88,117 +155,98 @@ Topics covered:
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```text
 certificaciones/
-
 │
-
 ├── assets/
 │   ├── img/
-│   ├── icons/
+│   │   ├── preview-1.png
+│   │   ├── preview-2.png
+│   │   ├── preview-3.png
+│   │   └── preview-4.png
+│   │
 │   └── pdf/
-
-├── css/
-│   └── style.css
-
-├── js/
-│   └── script.js
-
+│       ├── azure/
+│       ├── frontend/
+│       ├── databases/
+│       └── professional-development/
+│
 ├── index.html
-
+├── style.css
+├── script.js
 └── README.md
 ```
 
----
-
-# 📸 Preview
-
-## Hero
-
-![Hero](assets/img/preview-1.png)
+> The folder structure may evolve as new certificates and learning paths are added.
 
 ---
 
-## Technologies
+## 📸 Project Preview
 
-![Technologies](assets/img/preview-2.png)
+### Hero Section
+
+![Hero section](assets/img/preview-1.png)
+
+### Technologies Section
+
+![Technologies section](assets/img/preview-2.png)
+
+### Certifications Section
+
+![Certifications section](assets/img/preview-3.png)
+
+### Learning Journey
+
+![Learning journey](assets/img/preview-4.png)
 
 ---
 
-## Learning Paths
+## 📈 Continuous Learning Journey
 
-![Learning Paths](assets/img/preview-3.png)
+This project reflects my commitment to continuous professional development.
 
----
+My current areas of focus include:
 
-## Certifications
-
-![Certifications](assets/img/preview-4.png)
-
----
-
-# 📈 Learning Journey
-
-This portfolio reflects my continuous education in modern software development.
-
-Current areas of study include:
-
-✅ Front-End Development
-
-✅ Cloud Computing
-
-✅ Version Control
-
-✅ Professional Development
-
-Currently learning:
-
+- Front-End Development
+- JavaScript
 - React
-- Node.js
-- SQL
-- AWS Cloud
-- Software Engineering Best Practices
+- SQL and relational databases
+- Cloud Computing
+- AWS
+- Git and GitHub
+- Software Engineering best practices
 
 ---
 
-# 🎯 Future Certifications
+## 🎯 Future Certifications
 
-Planned certifications include:
+Planned learning goals include:
 
-- AWS Cloud Practitioner
-- AWS Developer Associate
-- AWS Solutions Architect Associate
-- Microsoft Azure Administrator (AZ-104)
+- AWS Certified Cloud Practitioner
+- AWS Certified Developer – Associate
+- AWS Certified Solutions Architect – Associate
+- Microsoft Azure Administrator Associate
+- Advanced React
+- Node.js Backend Development
 - Docker
 - Kubernetes
-- Oracle Database
-- React Advanced
-- Node.js Backend Development
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-## Alejandro Escobar
+### Alejandro Escobar
 
-### Portfolio
-
-https://aescobardev.github.io/aescobardev-portfolio/
-
-### GitHub
-
-https://github.com/aescobardev
-
-### LinkedIn
-
-www.linkedin.com/in/alejandroescobardev
+- [Portfolio](https://aescobardev.github.io/aescobardev-portfolio/)
+- [GitHub](https://github.com/aescobardev)
+- [LinkedIn](https://www.linkedin.com/in/alejandroescobardev/)
 
 ---
 
-# ⭐ Support
+## ⭐ Support
 
-If you like this project, consider giving it a ⭐ on GitHub.
+If you find this project useful or interesting, consider giving it a star on GitHub.
 
-It motivates me to continue building new projects and documenting my learning journey.
+Your support motivates me to continue learning, building projects, and documenting my professional journey.
